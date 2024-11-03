@@ -36,7 +36,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Najas06/Najas06/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 
