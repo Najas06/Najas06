@@ -32,7 +32,7 @@
 
 ###
 
-<img align="right" height="" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif"  />
+<img align="left" height="" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif"  />
 
 ###
 
