@@ -35,3 +35,13 @@
 <img align="right" height="" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif"  />
 
 ###
+
+<img src="https://raw.githubusercontent.com/Najas06/Najas06/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Najas06/count.svg?"  />
+</div>
+
+###
